@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple Robot sorting app. 
+
+It was created to fully understand Redux, and calling Api's with Redux. You can sort through the robots using Redux to manage the state and make updates accordingly. I may add to it in the future. The robots are actually randomly generated through an Api as well.
+
+
+
+
+
+
+
+
+
 
 ## Available Scripts
 
